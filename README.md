@@ -1,13 +1,13 @@
-# 📌 .NET Core Web API Eğitimi
+# 📌 .NET Core Web API
 
-## 📚 Konular
+## 📚 Projede Kullanılan Özellikler Bunlardır
 
 - 🌐 **Http Protokol**
 - 🚀 **Örnek Web Api Yaratmak**
 - 📂 **Proje Dosyalarını Tanıma**
 - 🛤 **Controllers, Route ve Action Methodlar**
 - 🛠 **Swagger ve Postman Kullanımı**
-- 📖 **BookStore Projesi Yaratmak**
+- 📖 **BookStore Projesi**
 - 🗄 **Veritabanı Yönetim Sistemleri**
 - ⚙ **ORM ve Entity Framework Core**
 - 🏗 **Entity, Model ve Mapper Kullanımı**
@@ -18,3 +18,4 @@
 - 🧪 **TDD (Test Driven Development)**
 - 📌 **Ödev - Projenin Eksik Testlerinin Tamamlanması**
 - 🔐 **Kimlik Doğrulama ve Yetkilendirme Protokolleri**
+
