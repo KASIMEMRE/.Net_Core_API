@@ -1,6 +1,6 @@
 # 📌 .NET Core Web API
 
-## 📚 Projede Kullanılan Özellikler Bunlardır
+## 📚 Projede Kullanılan Özellikler
 
 - 🌐 **Http Protokol**
 - 🚀 **Örnek Web Api Yaratmak**
